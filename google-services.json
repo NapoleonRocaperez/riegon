@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745677240622",
+    "firebase_url": "https://riegon-default-rtdb.firebaseio.com",
+    "project_id": "riegon",
+    "storage_bucket": "riegon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745677240622:android:1eb6faece8ecb087cce2bf",
+        "android_client_info": {
+          "package_name": "com.example.riegon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745677240622-5e6k80i642bfuqpb7i2j1rsijd77gssc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riegon",
+            "certificate_hash": "806e11434c0ef41dc5f4840bb208fa70631d5907"
+          }
+        },
+        {
+          "client_id": "745677240622-65mervuj181tersknhdbh9sjn2rc98ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDutu8dL4Z_PYmaCLD1_9RNYEey_aH9nsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745677240622-65mervuj181tersknhdbh9sjn2rc98ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
